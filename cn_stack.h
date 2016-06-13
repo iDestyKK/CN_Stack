@@ -17,8 +17,8 @@
  * http://web.eecs.utk.edu/~ssmit285/lib/cn_stack/index.html
  */
 
-#ifndef __CN_stack__
-#define __CN_stack__
+#ifndef __CN_STACK__
+#define __CN_STACK__
 
 #include <stdlib.h>
 #include <string.h>
