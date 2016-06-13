@@ -1,7 +1,7 @@
 /*
  * CN_Stack Library
  *
- * Version 1.0.0 (Last Updated 2016-06-05)
+ * Version 1.0.0 (Last Updated 2016-06-11)
  *
  * Description:
  *     Stacks for C library. Implements the data structure with a main struct
@@ -37,7 +37,7 @@ typedef struct cns_node {
 typedef struct cn_stack {
 	//Nodes holding data
 	CNS_NODE* head,
-		    * back;
+	        * back;
 
 	//Data needed in the structure
 	cns_uint  size,
@@ -92,6 +92,6 @@ void      __cn_stack_free_node  (CNS_NODE*);
 \***************************************/
 
 /*
-    2016-06-05 (1.0.0)
-      - Started writing CN_Queue. Initial (And probably the only) Release.
+    2016-06-11 (1.0.0)
+      - Started writing CN_Stack. Initial (And probably the only) Release.
 */

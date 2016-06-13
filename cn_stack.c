@@ -1,7 +1,7 @@
 /*
  * CN_Stack Library
  *
- * Version 1.0.0 (Last Updated 2016-06-05)
+ * Version 1.0.0 (Last Updated 2016-06-11)
  *
  * Description:
  *     Stacks for C library. Implements the data structure with a main struct
