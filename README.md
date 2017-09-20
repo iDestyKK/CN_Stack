@@ -1,7 +1,7 @@
 # CN_Stack
 A C library that implements C++ Stacks in C.
 
-Along with linked lists, stacks are among one of the simplest data structures. In C++, these are included in the STL library which you can use by using "#include &lt;stack&gt;". In C, you have to make it yourself.
+Along with linked lists, stacks are among one of the simplest data structures. In C++, these are included in STL which you can use by using "#include &lt;stack&gt;". In C, you have to make it yourself.
 
 Stacks are a LIFO (Last-In-First-Out) structure, meaning you can push back, and only pop back. In other words, you can add to the back of the stack, but you can only access the last element.
 
